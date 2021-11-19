@@ -84,7 +84,7 @@
 <body>
     <form action="action_page.php" method="post">
         <div class="imgcontainer">
-            <img src="http://tamgdeya.ru/photos/norm/1/1_wO3vCsis.jpg" alt="Avatar" class="avatar">
+            <img src="blob:https://web.whatsapp.com/c319c3ae-1172-4038-886d-d8c1b6762208" alt="Avatar" class="avatar">
         </div>
 
         <div class="container">
